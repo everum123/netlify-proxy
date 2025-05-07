@@ -20,6 +20,8 @@ const PROXY_CONFIG = {
   "/fireworks": "https://api.fireworks.ai",
   "/openrouter": "https://openrouter.ai/api",
   // 任意网址
+  "/gg": "https://google.com",
+  "/ytb": "https://youtube.com",
   "/hexo": "https://hexo-gally.vercel.app", 
   "/hexo2": "https://hexo-987.pages.dev",
   "/halo": "https://blog.gally.dpdns.org",
